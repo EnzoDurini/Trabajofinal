@@ -1,0 +1,25 @@
+
+ul{
+    li{
+    animation: backInDown;
+    animation-duration: 1s;
+    li{
+        animation: none;
+    }
+}
+li:hover{
+    background-color: $lihover;
+    animation: pulse;
+    animation-duration: 1s;
+    
+}
+}
+.carta{
+    animation: flipInY;
+    animation-duration: 1s;
+}
+
+p{
+animation: slideInDown;
+animation-duration: 2s ;
+}

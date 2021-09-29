@@ -1,0 +1,24 @@
+@media (min-width: 768px){
+    .main{
+        padding: 3rem;
+        h2{font-size: 4rem;
+        }
+    }
+}
+
+@media (min-width: 980px){
+.main{
+        padding: 3rem 1rem 5rem 1rem;
+        div{
+            a{
+                img{
+                    height: 50%;
+                    width: 30%;
+                }
+            }
+        h2{
+            font-size: 5rem;
+        }
+        }
+    }
+}

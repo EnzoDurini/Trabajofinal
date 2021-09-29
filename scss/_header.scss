@@ -1,0 +1,13 @@
+
+header{ 
+    nav{
+        background-color: $header;
+        div{ background-color: $divheader;
+            a{
+                font-family: 'Courgette', cursive;
+                font-family: 'MonteCarlo', cursive;
+                font-size: 2rem;
+            }
+        }
+    }
+}
