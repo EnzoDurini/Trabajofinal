@@ -4,6 +4,9 @@
         h2{font-size: 4rem;
         }
     }
+    textarea{
+        width: 530px;
+    }
 }
 
 @media (min-width: 980px){
@@ -20,5 +23,11 @@
             font-size: 5rem;
         }
         }
+    }
+}
+
+@media (max-width: 768px) {
+    .sobre{
+        width: 100%;
     }
 }

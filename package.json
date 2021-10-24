@@ -9,9 +9,18 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "node-sass": "^6.0.1",
     "nodemon": "^2.0.12"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnzoDurini/Trabajofinal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EnzoDurini/Trabajofinal/issues"
+  },
+  "homepage": "https://github.com/EnzoDurini/Trabajofinal#readme",
+  "description": ""
 }

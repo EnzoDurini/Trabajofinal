@@ -4,10 +4,12 @@ header{
         background-color: $header;
         div{ background-color: $divheader;
             a{
-                font-family: 'Courgette', cursive;
-                font-family: 'MonteCarlo', cursive;
+                font-family: 'Alegreya Sans', sans-serif;
                 font-size: 2rem;
             }
         }
     }
+}
+.icono{
+    width: 20px;
 }
